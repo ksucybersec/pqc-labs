@@ -1,0 +1,13 @@
+# Python-specific ignores
+__pycache__/
+*.pyc
+*.pyo
+dist/
+build/
+venv/
+*.egg-info/
+.ipynb_checkpoints
+
+# General ignores
+*.log
+*.env
